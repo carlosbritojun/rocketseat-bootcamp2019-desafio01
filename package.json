@@ -5,6 +5,9 @@
   "repository": "https://github.com/carlosbritojun/rocketseat-bootcamp2019-desafio01.git",
   "author": "Carlos Júnior <carlosbritojun@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
   "dependencies": {
     "express": "^4.17.1",
     "http-status-codes": "^2.1.4"
